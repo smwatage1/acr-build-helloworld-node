@@ -10,4 +10,4 @@ steps:
 - cmd: docker stop test
 # Push image
 - push:
-  - {{.Run.Registry}}/hello-world:{{.Run.ID}}
+  - {{.Run.Registry}}/sanga/hello-world-sanga:{{.Run.ID}}
