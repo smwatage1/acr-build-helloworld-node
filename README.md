@@ -1,5 +1,5 @@
 ---
-page_type: sample
+ge_type: sample
 languages:
 - javascript
 products:
